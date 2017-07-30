@@ -1,0 +1,10 @@
+ul.ul.big.horizontal.list.voters{
+  list-style-type: none;
+  display: flex;
+  padding: 0px;
+}
+
+ul.ul.big.horizontal.list.voters a:first-child{
+  margin-right: 10px;
+}
+
